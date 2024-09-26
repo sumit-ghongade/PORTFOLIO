@@ -88,7 +88,7 @@ body {
 
 .home__blob {
     
-  width: 100px;
+  width: 150px;
   fill: var(--first-color);
   /* fill: hsl(69, 69%, 61%); */
 }
